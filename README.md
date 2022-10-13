@@ -10,4 +10,4 @@ Commands to download modules:
   - pip install PyQRCode
   - pip install pypng
   
-For output referance please check the Instagram page : @python_projects_
+For output referance please check the Instagram page: https://www.instagram.com/hack_smashes/
